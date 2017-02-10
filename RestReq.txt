@@ -1,0 +1,24 @@
+Comunicar estudiantes, personal docente, de investigacion, administracion y servicios
+Google Maps integrado
+gestion de vehiculos disponibles para compartir
+gestion de pago
+fecha y horario del trayecto junto con las personas en ello y coste del mismo
+registrar usuarios solo de la UAM
+sistema de modificacion de disponibilidad tanto en oferta como en demanda
+Usuario debera decir si necesita o da transporte
+Conductores podran decir si se puede fumar o no (mas otras condiciones)
+Ofertas publicas
+Integracion con google maps para calculo de localizacion, duracion de trayecto y \
+    recursos geolocalizados
+Aplicacion web para moviles
+facilidad de uso
+interfaz movil, funciones de geolocalizacion, consultar datos
+    Faciz interacion con el mapa de google maps para escoger servicios
+    como lugar de partida y destino
+
+Usuario puede decir que le gustaria compartir un coche y zona y horario que quiere
+    Ya sea para ir a la Universidad o volver a su casa
+Notificaciones (pensar varias)
+gestion de reservas y sus historicos tanto pendientes como acabadas
+sistema de gestion de pagos, basado en prepago
+

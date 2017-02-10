@@ -1,0 +1,58 @@
+Usuarios:
+    Todos:
+        Registrarse mediante la aplicacion de registro de la UAM
+        Autenticarse y entrar en la aplicacion
+        Ver el mapa de google maps
+        Ver Valoraciones hechas y recibidas
+        Ver comentarios hechos y recibidos
+        Valorar y comentar un trayecto o usuario
+        Ver historico de trayectos
+        Ver chats con otros usuarios
+        Ver notificaciones (depende del usuario que notificaciones):
+            Chat
+            Pagos
+        Cambiar su rol
+        Ver que usuarios hay cerca de el y que rol realizan
+        Ver valoracion de otros usuarios (Sistema de estrellas)
+        Cancelar un viaje
+        Gestion de reservas e historico de las mismas, junto con su estado
+    Pasajeros:
+        Ver en el mapa de google maps, los vehiculos disponibles para pedir
+            y los huecos en ellos
+        Pedir un coche para compartir (zona, horario)
+        Decir trayecto ya sea solo ida, solo vuelta o ambas
+        Reservar un vehiculo
+        Compartir vehiculo
+        Notificaciones:
+            Aceptacion de compartir coche
+            Cancelacion de viaje
+            Confirmacion de reserva
+            Pago de trayecto
+        Pagar un trayecto
+    Conductores:
+        Ver en el mapa de google maps los posibles pasajeros
+        Anunciar que tiene un coce para compartir
+            Cuantas plazas le quedan
+        Decir que trayecto hara y que horario, junto con el precio
+            Se le proporcionara un precio recomendado segun distancia dada por
+            google maps y mas parametros
+        Visualizar peticiones de reserva y su posible aceptacion
+        Cobrar un trayecto
+        Llevar a pasajeros
+        Notificaciones:
+            Cancelacion de viajes
+            Confirmacion de reserva
+            Confirmacion de cobro de trayecto
+        cobrar un trayecto
+        
+Sistema:
+    Gestion de valoraciones y comentarios
+    gestion de reservas e historicos
+    gestion de pagos
+    gestion de chats
+    gestion 
+
+
+
+Nuevos requisitos propuestos:
+
